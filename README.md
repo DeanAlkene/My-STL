@@ -1,2 +1,3 @@
 # My-STL
 Projects of CS358, SJTU
+* DO NOT COPY OR YOU WILL GET ZERO!!!
